@@ -5,9 +5,15 @@ Named after a [viral meme](https://www.youtube.com/watch?v=c7BVtGnlxT8), this C+
 
 ## Installation
 
-You can build the engine using `cmake`.
+You can build the engine using either `make` or `cmake`.
 
-### Build with CMake
+### **Option 1 — Build with Make**
+```bash
+git clone https://github.com/Sun-faced/Chess_Engine.git
+cd Chess_Engine
+make
+```
+### **Option 2 — Build with CMake**
 ```bash
 git clone https://github.com/Sun-faced/Chess_Engine.git
 cd Chess_Engine
